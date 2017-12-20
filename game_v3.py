@@ -1,4 +1,4 @@
-# Use Python to create a classic Magic 8 Ball to answer all your most pressing questions. In the second version of this project, we will add some sleep delays to create the illusion that the Magic 8 Ball is "pondering" the question.
+# Use Python to create a classic Magic 8 Ball to answer all your most pressing questions. In the third version of this project, we will add some sleep delays to create the illusion that the Magic 8 Ball is "pondering" the question.
 # Concepts: time module; random module; arrays; variables; time > sleep; input; print
 
 import time
